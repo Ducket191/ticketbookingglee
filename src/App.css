@@ -1,0 +1,138 @@
+/* App.css */
+
+
+/* General styling for the app container */
+.App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #ffffff;
+    min-height: 100vh;
+  }
+ 
+  /* Form styling */
+  .inputin4 {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+ 
+  /* Headline styling */
+  h1 {
+    font-size: 24px;
+    margin-bottom: 40px;
+  }
+ 
+  h2 {
+    font-size: 18px;
+    margin: 10px 0 5px;
+    text-align: left;
+  }
+
+
+  h3 {
+    font-size: 13px;
+    text-align: left;
+  }
+ 
+  /* Input field styling */
+  .HoTen{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+
+
+  .SoDienThoai {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+
+
+  .email {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+ 
+  /* Button styling */
+  button {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+  }
+
+
+  button:hover {
+    background-color: #004c9d;
+  }
+
+
+  .ticket-button {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #f1f1f1;
+    color: black;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    border-radius: 5px; /* Tùy chỉnh thêm để nút trông đẹp hơn */
+    transition: background-color 0.3s, color 0.3s;
+  }
+ 
+  .ticket-button:hover {
+    background-color: #ddd;
+  }
+
+
+  .selected {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #888888;
+    color: black;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+ 
+  .ticket-button.selected {
+    background-color: #676767;
+    color: white;
+    border-color: #a7a7a7;
+  }
+
+
+  .payinginfor {
+    text-align: left;
+    margin-left: 0;
+    width: 100%;
+    max-width: 600px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
