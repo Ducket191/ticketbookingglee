@@ -124,7 +124,7 @@ function App() {
         <div className="inputin4">
 <ul style={{ textAlign: 'left' }}>
   <p>
-    <strong>TRAVÉZIA</strong> là chuỗi sự kiện âm nhạc thường niên biểu diễn tại thành phố Hà Nội, được tổ chức bởi CLB <strong>Glee Ams</strong> - một trong những CLB nghệ thuật lớn nhất thuộc trường THPT Chuyên Hà Nội - Amsterdam. 
+    <strong>TRAVÉZIAAAA</strong> là chuỗi sự kiện âm nhạc thường niên biểu diễn tại thành phố Hà Nội, được tổ chức bởi CLB <strong>Glee Ams</strong> - một trong những CLB nghệ thuật lớn nhất thuộc trường THPT Chuyên Hà Nội - Amsterdam. 
     Trải qua 22 đêm diễn thành công, TRAVÉZIA vẫn luôn giữ được sức hút nhờ vào những màn diễn nhạc sống chỉn chu và ấn tượng.
   </p>
 
